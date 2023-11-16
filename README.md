@@ -9,6 +9,7 @@ You can check the aplication <a href="https://cintiabsza.github.io/react-fooddel
 ## What I've learned
 
 * tailwind
+
 with this project I could learn a lot about tailwind. At the begining it was a bit weird, but at the end of the project a I was very confortable using tailwind.
 * react components
 I've created some componentes that the original  project didn't have: "the title component" and the "button component" used to filter the food categories. 
