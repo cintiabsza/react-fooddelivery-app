@@ -1,8 +1,24 @@
-# React + Vite
+# React Food Delivery Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What this application does
 
-Currently, two official plugins are available:
+This is a responsive website, that could be used to order food for delivery. The application works both web or mobile.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can check the aplication <a href="https://cintiabsza.github.io/react-fooddelivery-app/">here 
+
+## What I've learned
+
+* tailwind
+* react components
+* react hooks
+* react props 
+
+## Credits
+
+The original version of this project was developed by <a href="https://github.com/briancodex"> @briancodex. 
+
+I've reproduced the code and I've made basic changes in order to study react aplications.
+
+The Brian's tutorial is available <a href="https://www.youtube.com/watch?v=I2UBjN5ER4s&list=PLycH2L2POIr_lT_h4JYPENhIEgkysCz5p&index=70&t=781s"> here.
+
+
