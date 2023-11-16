@@ -10,13 +10,13 @@ You can check the aplication <a href="https://cintiabsza.github.io/react-fooddel
 
 * tailwind -
 with this project I could learn a lot about tailwind. At the begining it was a bit weird, but at the end of the project a I was very confortable using tailwind.
-* react components
+* react components -
 I've created some componentes that the original  project didn't have: "the title component" and the "button component" used to filter the food categories. 
-* react props 
+* react props - 
 I've used react props to create the "title component" in order to white different titles
-* react hooks
+* react hooks - 
 the react hook "UseState" is used in this project to change images at the main banner and to filter the food categories at the "Our Meal" section.
-* design
+* design -
 in order to improve the layout of this project I've changed some colors and create some hover effects that the original project didn't have. Also, I've change a bit the footer structure.
 
 ## Credits
