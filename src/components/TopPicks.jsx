@@ -3,7 +3,6 @@ import {topPicks} from '../data/data.jsx'
 import { Splide, SplideSlide } from '@splidejs/react-splide'
 import '@splidejs/react-splide/css'
 import Title from './Title.jsx'
-import {RxDotFilled} from "react-icons/rx"
 
 const TopPicks = () => {
   return (
