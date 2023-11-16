@@ -15,10 +15,10 @@ You can check the aplication <a href="https://cintiabsza.github.io/react-fooddel
 
 ## Credits
 
-The original version of this project was developed by <a href="https://github.com/briancodex"> @briancodex. 
+The original version of this project was developed by <a href="https://github.com/ehizeex"> @ehizeex. 
 
 I've reproduced the code and I've made basic changes in order to study react aplications.
 
-The Brian's tutorial is available <a href="https://www.youtube.com/watch?v=I2UBjN5ER4s&list=PLycH2L2POIr_lT_h4JYPENhIEgkysCz5p&index=70&t=781s"> here.
+The Ehizeex's tutorial that a i've used is available <a href="https://www.youtube.com/watch?v=AcpP5Kca60c"> here.
 
 
