@@ -6,7 +6,7 @@ This is a responsive website, that could be used to order food for delivery. The
 
 You can check the aplication <a href="https://cintiabsza.github.io/react-fooddelivery-app/">here 
 
-## What I've learned and What I've changed from the original project:
+## What I've learned and what I've changed from the original project:
 
 * tailwind -
 with this project I could learn a lot about tailwind. At the begining it was a bit weird, but at the end of the project I was very confortable using it. Also, I've found so easy to buil responsive apps with tailwind. 
