@@ -19,7 +19,6 @@ function App() {
       <GetApp/>
       <TopPicks/>
       <Meal/>
-      <Categories/>
       <Footer/> 
       <BaseFooter/>
     </div>
