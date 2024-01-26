@@ -3,67 +3,67 @@ export const topPicks = [
       id: 1,
       title: 'Shawarma',
       price: '$850',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg'
+      img: 'https://images.unsplash.com/photo-1561651823-34feb02250e4?q=80&w=3554&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
       id: 2,
-      title: 'Fruite Juice',
+      title: 'Ramen',
       price: '$900',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329939/NetflixApp/fruite_juice_du7uqy.jpg',
+      img: 'https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=3580&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 3,
-      title: 'Yogurt Parfaite',
+      title: 'Mexican Tacos',
       price: '$450',
-      img: "https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329944/NetflixApp/yogurt_parfait_kt8b5f.jpg"
+      img: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       id: 4,
       title: 'Orange Juice',
       price: '$420',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672329938/NetflixApp/orangejuice_s4mdbi.webp'
+      img: 'https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?q=80&w=3445&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
       id: 5,
       title: 'Egg & Plantain',
       price: '$700',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331290/NetflixApp/edd_and_plantain_rey7l4.jpg',
+      img: 'https://images.unsplash.com/photo-1482049016688-2d3e1b311543?q=80&w=3673&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 6,
       title: 'Tilapia Fish',
       price: '$900',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331305/NetflixApp/tilapia_fish_g0ozkn.jpg'
+      img: 'https://images.unsplash.com/photo-1548704087-b11dab0fbec0?q=80&w=3569&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
       id: 7,
-      title: 'Jollof Rice',
+      title: 'Indian Rice',
       price: '$150',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672332323/NetflixApp/jollof_rice_gbzosf.webp',
+      img: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 8,
       title: 'Chicken Burger',
       price: '$300',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672332323/NetflixApp/chiken_burger_ncsmeh.webp',
+      img: 'https://images.unsplash.com/photo-1615297928064-24977384d0da?q=80&w=3512&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 9,
       title: 'Egg and Plantain',
       price: '$500',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672331290/NetflixApp/edd_and_plantain_rey7l4.jpg',
+      img: 'https://images.unsplash.com/photo-1513442542250-854d436a73f2?q=80&w=3114&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 10,
-      title: 'African Salad',
+      title: 'Fresh Salad',
       price: '$200',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
+      img: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=3160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 11,
-      title: 'Chinese Pizza',
+      title: 'Pizza',
       price: '$900',
-      img: 'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
+      img: 'https://images.unsplash.com/photo-1590947132387-155cc02f3212?q=80&w=3240&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
   ];
   
@@ -71,10 +71,10 @@ export const topPicks = [
   export const mealData = [
     {
       id: 5,
-      name: 'Cheeseless Pizza',
+      name: 'Burratta Pizza',
       category: 'pizza',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/cheeseless_pizza_bkuecz.jpg',
+        'https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$200',
     },
     {
@@ -82,7 +82,7 @@ export const topPicks = [
       name: 'Supreme Pizza',
       category: 'pizza',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324455/NetflixApp/Supreme_Pizza_jtvkj8.jpg',
+        'https://images.unsplash.com/photo-1595708684082-a173bb3a06c5?q=80&w=3564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$300',
     },
     {
@@ -90,7 +90,7 @@ export const topPicks = [
       name: 'Pepperoni Pizza',
       category: 'pizza',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/pepperoni_pizza_axwdat.jpg',
+        'https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?q=80&w=3576&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$100',
     },
     {
@@ -98,15 +98,15 @@ export const topPicks = [
       name: 'Cheese Pizza',
       category: 'pizza',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
+        'https://images.unsplash.com/photo-1636405217084-1482722bc428?q=80&w=3566&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$140',
     },
     {
       id: 8,
-      name: 'African Salad',
+      name: 'Colourful Salad',
       category: 'salad',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
+        'https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=3684&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$140',
     },
     {
@@ -114,7 +114,7 @@ export const topPicks = [
       name: 'Kale Salad',
       category: 'salad',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/kale_salad_ogune3.jpg',
+        'https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$300',
     },
     {
@@ -122,31 +122,31 @@ export const topPicks = [
       name: 'Ceasar Salad',
       category: 'salad',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323859/NetflixApp/caesar-salad-with-tuna-30216-1_noflfd.jpg',
+        'https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=3648&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$300',
     },
     {
       id: 11,
-      name: 'Loaded Salad',
+      name: 'Vegan Salad',
       category: 'salad',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/loaded_salad_qq5jup.jpg',
+        'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$200',
     },
     {
       id: 12,
-      name: 'Chicken Shawarma',
+      name: 'Chicken Wrap',
       category: 'chicken',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg',
+        'https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=3064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$100',
     },
     {
       id: 13,
-      name: 'Wings',
+      name: 'Fried Chicken',
       category: 'chicken',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/chicken-wings_lv3zc9.jpg',
+        'https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$100',
     },
     {
@@ -154,15 +154,15 @@ export const topPicks = [
       name: 'Roasted Chicken',
       category: 'chicken',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/roast-chicken_nrc6r8.jpg',
+        'https://images.unsplash.com/photo-1610057098265-05f2bcbedd55?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$300',
     },
     {
       id: 15,
-      name: 'Chicken Tenders',
+      name: 'Chicken Wings',
       category: 'chicken',
       image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322923/NetflixApp/chicken_tenders_quel6y.jpg',
+        'https://images.unsplash.com/photo-1645371958635-88dd6c8e1be7?q=80&w=3571&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       price: '$100',
     },
   

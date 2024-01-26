@@ -11,7 +11,7 @@ const TopPicks = () => {
             <Title 
             text="Top Picks"/>
         </div>
-        <div className="lg:flex max-w[1520px] h-[200px] py-4 px-4  lg:px-14">
+        <div className=" max-w[1520px] h-[200px] py-4 px-4  lg:px-14">
             <Splide options={{
                 mediaQuery: 'min',
                 perMove: 1, 
