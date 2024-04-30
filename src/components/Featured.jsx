@@ -9,7 +9,7 @@ const Featured = () => {
             url: 'https://images.unsplash.com/photo-1588315029754-2dd089d39a1a?q=80&w=3571&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         },
         {
-            url: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=3571&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+            url: 'https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=2464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
         },
         {
             url: 'https://images.unsplash.com/photo-1560717845-968823efbee1?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
